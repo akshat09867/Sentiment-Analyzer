@@ -40,3 +40,9 @@ yarn-error.log*
 
 
 backend/Database
+
+
+**/venv/
+**/.venv/      
+*.pyc
+__pycache__/
