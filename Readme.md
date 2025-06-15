@@ -65,14 +65,15 @@ Sentiment analysis transforms raw text into actionable insights, enabling dataâ€
 
 ## Running the App
 1. **Train or load the model**
-```bash
-cd ML
-python app.py
+    ```bash
+    cd ML
+    python app.py
+
 2. **Start the backend**
-```bash
-cd ../backend
-npm run dev
+`   ``bash
+    cd ../backend
+    npm run dev
 3. **Start the frontend**
-```bash
-cd ../frotnend
-npm start
+    ```bash
+    cd ../frotnend
+    npm start
