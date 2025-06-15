@@ -70,7 +70,7 @@ Sentiment analysis transforms raw text into actionable insights, enabling dataâ€
     python app.py
 
 2. **Start the backend**
-`   ``bash
+    ```bash
     cd ../backend
     npm run dev
 3. **Start the frontend**
