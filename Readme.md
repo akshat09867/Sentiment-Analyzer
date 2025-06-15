@@ -59,6 +59,7 @@ Sentiment analysis transforms raw text into actionable insights, enabling dataâ€
     cd ../frontend
     npm install     
 4. **Install Python ML dependencies** 
+    ```bash
     cd ../ML
     pip install -r requirements.txt
 
